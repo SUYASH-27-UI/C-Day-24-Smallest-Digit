@@ -1,0 +1,1 @@
+# C-Day-24-Smallest-Digit
